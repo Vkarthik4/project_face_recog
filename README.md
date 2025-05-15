@@ -14,3 +14,7 @@ Infos:
 3) do face reco. in bright light to detect and have good cam quality to detect active particpation by ai
 4) it can predict the phone if u se for proxy
 5) voice system isnt added and also pyaudio is used but it wont work cause havent fixed it, working on it
+
+
+Conclusiom:
+Existing system uses dlib n opecv mostly for face recognition but v used yolov8 and mobilefacenet for effective monitoring and security, name of the project is based on dlib cause it only detect key points in face, and this system is advance model of it..
