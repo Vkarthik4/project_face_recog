@@ -1,0 +1,12 @@
+{
+    "k@gmail.com": {
+        "first_name": "karthik",
+        "last_name": "v",
+        "email": "k@gmail.com",
+        "phone": "9856473645",
+        "degree": "B.Tech",
+        "courses": [
+            "Core Computer Science"
+        ]
+    }
+}
